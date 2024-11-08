@@ -1,15 +1,12 @@
-# AI-startup
-Building AI Course Project
-
 # AI Live Commentator
 
-![AI Icon](https://cdn-icons-png.flaticon.com/512/4712/4712109.png)  
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="25" height="25">  
 **AI Live Commentator** is an AI-powered service that uses a webcam feed to provide real-time commentary on events happening in physical or virtual spaces, such as conference rooms, sports games, and gatherings. Users can adjust the sentiment and tone of the commentary, choosing between humor or seriousness, and set specific parameters to ensure the commentary aligns with the event's context.
 
 ---
 
 ### Background  
-![Background Icon](https://cdn-icons-png.flaticon.com/512/2921/2921222.png)
+<img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="25" height="25">
 
 **Problem and Solution:**  
 In a variety of events, real-time commentary can enhance the audience’s understanding and engagement. However, hiring human commentators is not always feasible or affordable, especially for smaller events. AI Live Commentator solves this issue by offering scalable, customizable commentary accessible to anyone. The AI can provide insightful or entertaining narration for a wide range of activities, making events more interactive and enjoyable.
@@ -23,7 +20,7 @@ With the rise in virtual and hybrid events, there is an increasing need for inno
 ---
 
 ### Data and AI Techniques  
-![Data and AI Techniques Icon](https://cdn-icons-png.flaticon.com/512/4712/4712109.png)
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="25" height="25">
 
 **Data Sources:**  
 The AI Live Commentator relies on real-time computer vision input from webcams to detect and analyze actions, objects, and people in the scene. Users can also input relevant contextual data to guide the commentary.
@@ -34,7 +31,7 @@ The system incorporates computer vision to understand the environment, natural l
 ---
 
 ### How It Is Used  
-![Usage Icon](https://cdn-icons-png.flaticon.com/512/2921/2921222.png)
+<img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="25" height="25">
 
 **Context of Use:**  
 AI Live Commentator can be used in a variety of situations, including private events, corporate meetings, sports games, or livestreams. Event hosts and organizers can quickly set up AI-driven commentary tailored to their audience’s needs.
@@ -45,7 +42,7 @@ This service is aimed at event organizers, educators, streamers, and social medi
 ---
 
 ### Challenges  
-![Challenges Icon](https://cdn-icons-png.flaticon.com/512/2921/2921222.png)
+<img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="25" height="25">
 
 **Limitations:**  
 While the AI can generate context-specific commentary, it may still lack the depth or intuitive understanding a human commentator can bring, especially in fast-paced or complex situations. Privacy concerns around live-streamed events in private spaces require the AI to have robust, customizable settings to control the scope and nature of the commentary. Further, interpreting subtle social cues and emotional nuances presents ongoing challenges for AI systems.
@@ -53,7 +50,7 @@ While the AI can generate context-specific commentary, it may still lack the dep
 ---
 
 ### What Next?  
-![Future Icon](https://cdn-icons-png.flaticon.com/512/2921/2921222.png)
+<img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="25" height="25">
 
 **Potential Growth:**  
 Future iterations could include integration with augmented reality (AR) technology, allowing commentary to appear as an overlay in a viewer’s AR glasses or device. Expanding the system’s contextual awareness to improve its real-time understanding of complex interactions would make the commentary more dynamic. Long-term, the service could be adapted for specific industries, such as tourism, healthcare, and education, providing relevant live narration that enhances the user experience in a variety of professional contexts.
@@ -61,7 +58,6 @@ Future iterations could include integration with augmented reality (AR) technolo
 ---
 
 ### Acknowledgments  
-![Acknowledgments Icon](https://cdn-icons-png.flaticon.com/512/2921/2921222.png)
+<img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="25" height="25">
 
 This project leverages existing open-source AI resources, such as NLP and computer vision libraries, to streamline development and ensure accuracy. Acknowledgment is given to those AI communities and developers that have provided robust frameworks enabling innovations in real-time interaction.
-
