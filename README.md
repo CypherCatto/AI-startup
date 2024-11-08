@@ -1,9 +1,10 @@
 # AI Live Commentator
 
-
+##### Building AI course project
+----
 <img src="https://github.com/CypherCatto/images/blob/main/setup.png" width="250" height="250">
 
-## **The idea in a nutShell** <img src="https://github.com/CypherCatto/images/blob/main/nature.png" width="25" height="25">
+## **Summery** <img src="https://github.com/CypherCatto/images/blob/main/nature.png" width="25" height="25">
 
 This is an AI-powered service that uses a webcam feed to provide real-time commentary on events happening in physical or virtual spaces, such as conference rooms, sports games, and gatherings. Users can adjust the sentiment and tone of the commentary, choosing between humor or seriousness, and set specific parameters to ensure the commentary aligns with the event's context.
 
