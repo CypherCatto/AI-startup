@@ -1,6 +1,7 @@
 #AI Live Commentator - Startup
 
-![AI Live Commentator Icon]([https://github.com/yourusername/your-repo-name/blob/main/images/AI_Live_Commentator_Icon.png](https://github.com/CypherCatto/images/blob/main/robot.png) width="25" height="25" align="right")
+![AI Live Commentator Icon] <img src="https://github.com/CypherCatto/images/blob/main/robot.png" width="25" height="25" align="right">
+
 **AI Live Commentator** 
 This is an AI-powered service that uses a webcam feed to provide real-time commentary on events happening in physical or virtual spaces, such as conference rooms, sports games, and gatherings. Users can adjust the sentiment and tone of the commentary, choosing between humor or seriousness, and set specific parameters to ensure the commentary aligns with the event's context.
 
