@@ -1,6 +1,7 @@
-# AI Live Commentator
+#AI Live Commentator - Startup
 
-**AI Live Commentator** is an AI-powered service that uses a webcam feed to provide real-time commentary on events happening in physical or virtual spaces, such as conference rooms, sports games, and gatherings. Users can adjust the sentiment and tone of the commentary, choosing between humor or seriousness, and set specific parameters to ensure the commentary aligns with the event's context.
+**AI Live Commentator** <img src="[https://cdn-icons-png.flaticon.com/512/3039/3039388.png](https://github.com/CypherCatto/images/blob/main/robot.png)" width="25" height="25" align="right">
+This is an AI-powered service that uses a webcam feed to provide real-time commentary on events happening in physical or virtual spaces, such as conference rooms, sports games, and gatherings. Users can adjust the sentiment and tone of the commentary, choosing between humor or seriousness, and set specific parameters to ensure the commentary aligns with the event's context.
 
 ---
 
@@ -17,7 +18,7 @@ With the rise in virtual and hybrid events, there is an increasing need for inno
 
 ---
 
-### Data and AI Techniques <img src="https://cdn-icons-png.flaticon.com/512/3039/3039388.png" width="25" height="25" align="right">
+### Data and AI Techniques <img src="[https://cdn-icons-png.flaticon.com/512/3039/3039388.png](https://github.com/CypherCatto/images/blob/main/robot.png)" width="25" height="25" align="right">
 
 **Data Sources:**  
 The AI Live Commentator relies on real-time computer vision input from webcams to detect and analyze actions, objects, and people in the scene. Users can also input relevant contextual data to guide the commentary.
