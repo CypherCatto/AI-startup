@@ -1,4 +1,4 @@
-# AI Live Commentator <img src="https://github.com/CypherCatto/images/blob/main/robot.png" width="25" height="25">
+# AI Live Commentator
 
 <img src="https://github.com/CypherCatto/images/blob/main/setup.png" width="250" height="250">
 
